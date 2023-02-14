@@ -1,4 +1,4 @@
-## Olá, eu sou o Eduardo, seja bem-vindo ao meu GitHub!
+## Hello there! I'm Eduardo, and welcome to my GitHub!
 
 <div align="center">
   <a href="https://github.com/eduardovscruuz">
