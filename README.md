@@ -2,9 +2,9 @@
 
 ## 📊 GitHub Stats:
 <div>
-    <img  width="40%" src="https://github-readme-stats.vercel.app/api?username=eduardovscruuz&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false"/>
-    <img  width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovscruuz&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/><br>
-<img  width="77.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardovscruuz&theme=slateorange&hide_border=true"/>
+    <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=eduardovscruuz&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false"/>
+    <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovscruuz&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/><br>
+<img  width="97.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardovscruuz&theme=slateorange&hide_border=true"/>
   </div>
 
   
