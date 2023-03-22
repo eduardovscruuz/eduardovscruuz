@@ -1,12 +1,16 @@
-# Hello there! I'm Eduardo, and welcome to my GitHub!
+## Hello there! I'm Eduardo, and welcome to my GitHub!
 
 ## 📊 GitHub Stats:
-<div align="justify">
-  <a href="https://github.com/eduardovscruuz">
-  <img width="51.5%" height="10%" src="https://github-readme-stats.vercel.app/api?username=eduardovscruuz&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img width="48%"height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovscruuz&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-  <img width="100%"height="50%" src ="https://github-readme-streak-stats.herokuapp.com/?user=eduardovscruuz&theme=slateorange&hide_border=true"/>
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1;">
+    <img  height="140em" src="https://github-readme-stats.vercel.app/api?username=eduardovscruuz&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false"/>
+    <img  height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovscruuz&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+    <img  height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardovscruuz&theme=slateorange&hide_border=true"/>
+  </div>
+
+  
 </div>
+
 
   ## 🌐 Socials:
   <a href="https://instagram.com/eduardo_cruuz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -26,13 +30,3 @@
 </div>
 
 
-
-
-
-
-
-![]()
-![]()
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
