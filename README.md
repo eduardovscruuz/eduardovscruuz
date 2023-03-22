@@ -1,11 +1,10 @@
 ## Hello there! I'm Eduardo, and welcome to my GitHub!
 
 ## 📊 GitHub Stats:
-<div style="display: flex; justify-content: center;">
-  <div style="flex: 1;">
-    <img  height="130em" src="https://github-readme-stats.vercel.app/api?username=eduardovscruuz&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false"/>
-    <img  height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovscruuz&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-    <img  height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardovscruuz&theme=slateorange&hide_border=true"/>
+<div>
+    <img  width="40%" src="https://github-readme-stats.vercel.app/api?username=eduardovscruuz&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false"/>
+    <img  width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovscruuz&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/><br>
+<img  width="77.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardovscruuz&theme=slateorange&hide_border=true"/>
   </div>
 
   
