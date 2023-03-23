@@ -1,5 +1,7 @@
 ## Hello there! I'm Eduardo, and welcome to my GitHub!
 
+A tech enthusiast, who loves to develop creative solutions to complex challenges. My focus is to build useful and responsive applications using the latest technologies and tools.
+
 ## 📊 GitHub Stats:
 <div>
     <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=eduardovscruuz&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false"/>
