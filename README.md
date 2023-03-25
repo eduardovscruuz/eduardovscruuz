@@ -1,4 +1,4 @@
-## Hello there! I'm Eduardo, and welcome to my GitHub!
+## :wave: Hello there! I'm Eduardo, and welcome to my GitHub!
 
 A tech enthusiast, who loves to develop creative solutions to complex challenges. My focus is to build useful and responsive applications using the latest technologies and tools.
 
