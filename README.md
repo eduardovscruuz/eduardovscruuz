@@ -1,11 +1,11 @@
-## :wave: Hello there! I'm Eduardo, welcome to my GitHub!
+## :wave: Hello there! I'm Eduardo, and welcome to my GitHub!
 
 A tech enthusiast, who loves to develop creative solutions to complex challenges. My focus is to build useful and responsive applications using the latest technologies and tools.
 
 ## 📊 GitHub Stats:
-<div>
-    <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=eduardovscruuz&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false"/>
-    <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovscruuz&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/><br>
+<div align="center">
+    <img  width="54.5%" src="https://github-readme-stats.vercel.app/api?username=eduardovscruuz&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false"/>
+    <img  width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovscruuz&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/><br>
 <img  width="97.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardovscruuz&theme=slateorange&hide_border=true"/>
   </div>
 
