@@ -4,9 +4,9 @@ A tech enthusiast, who loves to develop creative solutions to complex challenges
 
 ## 📊 GitHub Stats:
 <div align="center">
-    <img  width="54.5%" src="https://github-readme-stats.vercel.app/api?username=eduardovscruuz&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false"/>
-    <img  width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovscruuz&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/><br>
-<img  width="97.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardovscruuz&theme=slateorange&hide_border=true"/>
+    <img  width="54.5%" src="https://github-readme-stats.vercel.app/api?username=eduardovscruuz&theme=transparent&hide_border=true&include_all_commits=false&count_private=false"/>
+    <img  width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovscruuz&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/><br>
+<img  width="97.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardovscruuz&theme=transparent&hide_border=true"/>
   </div>
 
   
