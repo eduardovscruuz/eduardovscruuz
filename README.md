@@ -1,6 +1,6 @@
 ## :wave: Hello there! I'm Eduardo, and welcome to my GitHub!
 
-A tech enthusiast, who loves to develop creative solutions to complex challenges. My focus is to build useful and responsive applications using the latest technologies and tools.
+A tech enthusiast, who loves to develop creative solutions to complex challenges. My focus is to solve problems and build useful and responsive applications using the latest technologies and tools.
 
 ## 📊 GitHub Stats:
 <div align="center">
