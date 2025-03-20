@@ -1,10 +1,5 @@
-<h3 align="left">
-    Hi you, I'm Eduardo!
-    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />
-</h3>
+![alt](./images/top.png)
+
 A tech enthusiast, who loves to develop creative solutions to complex challenges. My focus is to solve problems and build useful and responsive applications using the latest technologies and tools. OOP all the way, folks!
 
 ## 📊 GitHub Stats:
@@ -48,10 +43,10 @@ A tech enthusiast, who loves to develop creative solutions to complex challenges
 ![Docker](https://img.shields.io/badge/docker-003FFC?style=for-the-badge&logo=docker&logoColor=white) 
 ##
 
-### ...Goodbye, thanks for visiting!
+### ...goodbye, thanks for visiting! 
 ![OfficeGif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJ5dHBteXhyc3l1a2ZpYmowYzloNng3b3I0eXI2bHlvbnZhYTd6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rQ5cWOkvXfoTUZLIPh/giphy.gif)
 
-
+![alt](./images/bottom.png)
 
 
   
