@@ -1,4 +1,4 @@
-![alt](./images/top.png)
+![alt](./images/top1.png)
 
 A tech enthusiast, who loves to develop creative solutions to complex challenges. My focus is to solve problems and build useful and responsive applications using the latest technologies and tools. OOP all the way, folks!
 
