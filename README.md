@@ -46,7 +46,6 @@ A tech enthusiast, who loves to develop creative solutions to complex challenges
 ### ...goodbye, thanks for visiting! 
 ![OfficeGif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJ5dHBteXhyc3l1a2ZpYmowYzloNng3b3I0eXI2bHlvbnZhYTd6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rQ5cWOkvXfoTUZLIPh/giphy.gif)
 
-![alt](./images/bottom.png)
 
 
   
