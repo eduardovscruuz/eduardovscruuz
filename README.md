@@ -11,10 +11,9 @@ A tech enthusiast, who loves to develop creative solutions to complex challenges
 
   ## 🌐 Socials:
   <a href="https://www.eduardovscruuz.tech/"><img src="https://img.shields.io/badge/Portfolio-404040?style=for-the-badge"></a>
+  <a href = "https://leetcode.com/u/eduardovscruuz/" target="blank"> <img src="https://img.shields.io/badge/LeetCode-BD6500?style=for-the-badge&logo=LeetCode&logoColor=white" target="blank"></a>
   <a href="https://www.linkedin.com/in/eduardovscruuz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:eduardovscruuz@gmail.com"><img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://leetcode.com/u/eduardovscruuz/" target="blank"> <img src="https://img.shields.io/badge/LeetCode-BD6500?style=for-the-badge&logo=LeetCode&logoColor=white" target="blank"></a>
-  <a href="https://www.hackerrank.com/profile/eduardovscruuz" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
 
 ## 💻 Tech Stack:
 
